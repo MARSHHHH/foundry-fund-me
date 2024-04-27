@@ -8,9 +8,13 @@ https://book.getfoundry.sh/
 
 ## Reqiurements
 
-Install [foundry](https://getfoundry.sh/) by running '''forge --version''' 
+Install [foundry](https://getfoundry.sh/) by running '''$ forge --version''' 
 
 ## Quick Start
+
+git clone https://github.com/MARSHHHH/foundry-fund-me
+cd foundry-fund-me
+forge build
 
 ### Build
 
